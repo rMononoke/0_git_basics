@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Backup script"
+esdacho Backup script"
 # This is a comment
